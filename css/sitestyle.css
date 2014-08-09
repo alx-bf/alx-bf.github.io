@@ -1,0 +1,47 @@
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 0;
+}
+
+blockquote {margin: 25px 50px 25px 25%;}
+
+p {margin: 25px 50px 25px 200px}
+
+ol li {margin: 25px 200px;}
+ul li {margin: 25px 200px;}
+
+#Header {
+  font-family: monospace, consolas, courier;
+  border: 1px black solid;
+  border-collapse: collapse;
+  background-color: #eee;
+  font-size: x-large;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+#Links {
+  position: absolute;
+  background-color: #eee;
+  border: 1px black solid;
+  border-collapse: collapse;
+  margin: 25px 50px 13px 25px;
+  padding: 25px;
+}
+
+#Links a {
+  margin: 0 0 0 0;
+}
+
+#Diary {
+  position: absolute;
+  margin: 10px 200px;
+}

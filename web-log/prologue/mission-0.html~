@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  
+  <title>My Learning Plan</title>
+
+</head>
+
+<body>
+
+  <h1 align="center">My Learning Plan</h1><hr />
+ 
+  <p>This plan is not meant to replace my school's curriculum. This is to make up for my 10+ years of my learning +4 years of college learning.</p>
+  
+  <table border="1">
+    <thead>
+      <tr><th colspan="30">Learning Plan</td></tr><thead>
+    <tr>
+      <tr align="center">
+        <td colspan="3">English</td>
+        <td colspan="3">Science</td>
+        <td colspan="3">Mathematics</td>
+        <td colspan="3">Engineering</td>
+        <td colspan="3">Computation</td>
+        <td colspan="3">Philosophy</td>
+        <td colspan="3">Music, Arts, PE & Health</td>
+      </tr>
+    </tr>
+  </table>
+  
+</body>
+  
+</html>

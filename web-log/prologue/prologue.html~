@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+
+<html>
+
+  <head>
+    <title>Prologue</title>
+  </head>
+  
+  <body>
+  
+    <h1 align="center">Prologue</h1><hr />
+    
+    <h2>Introduction</h2>
+    
+    <p>This page is about who I currently am, why I made this site, and what I plan to do from here on.</p>
+    
+    <p>My name is Alexander B. Falgui, I was born on June 17, 1999 (I am 15 years old), and I live in the Philippines. I've used a computer since I was 4 and have my own when I was 6 (I am still using it now). The good part of it is that I am experienced in computers and the bad part is that I've become socially awkward and that I didn't get high grades. These two negative effects lessened last year.</p>
+    
+    <h2>Creation of alx-bf website</h2>
+    <p>alx-bf is the shortest form I could get from my whole name that isn't too ambiguous yet easy to type. I decided to make a website because of these reasons:</p>
+    
+    <ul>
+      <li>I was bored and I plan to keep myself busy with productive activities.</li>
+      <li>I wanted to put my upcoming achievements in this website.</li>
+      <li>I plan to practice my English grammatical skills.</li>
+      <li>I wanted to provide a way to let people know me without leaving a lot of necessary details.</li>
+      <li>I knew HTML and CSS back when I was younger, I didn't want to put this skill to waste.</li>
+    </ul>
+    <p>These reasons convinced me to create a website right away. I was lucky to find <a href="http://github.com/">github</a> and <a href="http://github.io/">github pages</a> because it could host web pages for me. I plan to learn JavaScript, PHP and JQuery, Python and Ruby in order to make the site look better but, that'll take me 10-20 years to apply these languages in this website by myself.</p>
+    
+    <h2>Plans</h2>
+    <p>My life plans are located <a href="http://alx-bf.github.io/web-log/plans1.html">here</a>. I stored my plans there because I don't plan to update this page, but I plan to update my plans.</p>
+    
+  <body>
+
+</html>
